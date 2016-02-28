@@ -1,4 +1,4 @@
-package org.opengraph;
+package org.opengraph.opengraph4j;
 
 /**
  * Represents an OpenGraph namespace

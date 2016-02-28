@@ -1,4 +1,4 @@
-package org.opengraph;
+package org.opengraph.opengraph4j;
 
 import java.net.URL;
 

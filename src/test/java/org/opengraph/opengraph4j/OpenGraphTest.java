@@ -1,7 +1,7 @@
-package org.opengraphtests;
+package org.opengraph.opengraph4j;
 
 import org.junit.Test;
-import org.opengraph.OpenGraph;
+import org.opengraph.opengraph4j.OpenGraph;
 
 import static org.junit.Assert.*;
 
